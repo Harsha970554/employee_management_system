@@ -30,7 +30,6 @@ def names():
     for i in result:
         list_of_names.append(i[1]) 
     return list_of_names
-
 def add_employee():
     
     list_of_ids=ids()
