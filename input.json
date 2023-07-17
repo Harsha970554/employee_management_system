@@ -1,0 +1,56 @@
+[
+    {
+        "name": "harsha",
+        "department": "testing",
+        "position": "QA lead",
+        "salary": 50000
+    },
+    {
+        "name": "david",
+        "department": "development",
+        "position": "project manager",
+        "salary": 90000
+    },
+    {
+        "name": "prem",
+        "department": "sales",
+        "position": "sales manager",
+        "salary": 45000
+    },
+    {
+        "name": "naveen",
+        "department": "testing",
+        "position": "QA engineer",
+        "salary": 55000
+    },
+    {
+        "name": "vijay",
+        "department": "development",
+        "position": "team lead",
+        "salary": 70000
+    },
+    {
+        "name": "bhargav",
+        "department": "sales",
+        "position": "sales executive",
+        "salary": 50000
+    },
+    {
+        "name": "sunil",
+        "department": "testing",
+        "position": "senior QA engineer",
+        "salary": 60000
+    },
+    {
+        "name": "sriram",
+        "department": "development",
+        "position": "software developer",
+        "salary": 75000
+    },
+    {
+        "name": "Balaji",
+        "department": "sales",
+        "position": "sales representative",
+        "salary": 450000
+    }
+]
