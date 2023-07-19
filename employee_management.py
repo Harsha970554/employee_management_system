@@ -261,13 +261,7 @@ def main():
 
 main()
 
-'''qry="select * from employee"
-cursor.execute(qry)
-result=cursor.fetchall()
-for i in result:
-    print(i)'''
-    
-           
+
 
 
 
